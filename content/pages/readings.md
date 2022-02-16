@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 52cd7204-9a4b-73ab-d0e6-ee3986fb30c0
 ---
@@ -98,7 +101,7 @@ Piaget, J. [_The Construction of Reality in the Child_](http://www.marxists.org/
 
 ———. [_Genetic Epistemology_](http://www.marxists.org/reference/subject/philosophy/works/fr/piaget.htm). 1968. \[[Piaget's Biogrpahy](http://www.marxists.org/glossary/people/p/i.htm#piaget-jean)\]
 
-Von Glasersfeld, E. [_Homage to Jean Piaget (1896-1980)_](http://www.oikos.org/Piagethom.htm). 1997.
+Von Glasersfeld, E. [_Homage to Jean Piaget (1896-1980)_](http://www.vonglasersfeld.com/204). 1997.
 
 Papert, S. "The Conservation of Piaget: The Computer as Grist to the Constructivist Mill". In _Constructivism in the Computer Age_. NY: Lawrence Erlbaum. 1988.
 
