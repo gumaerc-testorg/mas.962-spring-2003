@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 74a3d9db-8ea4-9517-4ef7-cf7ce4a57032
 resourcetype: Document
 title: 'Home Design Web Sites: An Educative Perspective'
 uid: 56a5f34c-1839-65a1-2e77-52a8fb360f4b
