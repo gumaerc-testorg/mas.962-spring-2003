@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, readings, active participation, short papers, the final project, the final
+  paper and website, final class presentation, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
