@@ -55,7 +55,7 @@ Short paper: What does Constructionism mean to you? If you are already familiar 
 S. Papert - Foundational Work
 {{< tdclose >}}
 {{< tdopen >}}
-Short paper: The short foreword to _Mindstorms_, called {{% resource_link "0701b32a-325d-456c-8bf1-82d4afd26984" "The Gears of My Childhood" %}}, has been very influential in the work of constructionist learning and education researchers. Write a short first reaction to this piece. I am only looking to see what emotions it evokes in you and how your thoughts and feelings about the central points of this piece evolve as you read the rest of _Mindstorms_.
+Short paper: The short foreword to _Mindstorms_, called [The Gears of My Childhood](http://www.papert.org/articles/GearsOfMyChildhood.html), has been very influential in the work of constructionist learning and education researchers. Write a short first reaction to this piece. I am only looking to see what emotions it evokes in you and how your thoughts and feelings about the central points of this piece evolve as you read the rest of _Mindstorms_.
 {{< tdclose >}}
 
 {{< trclose >}}
