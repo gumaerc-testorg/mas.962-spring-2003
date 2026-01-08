@@ -27,11 +27,11 @@ The course description, reading list, and requirements.
 Constructionism - Deep Dive
 {{< tdclose >}}{{< tdopen >}}
 
-Papert, S. "{{% resource_link "b08244c6-aff4-4661-8ffe-7c10bb5ba253" "Situating Constructionism" %}}." In *Constructionism*. Edited by Papert and Harel. Cambridge, MA: MIT Press, 1991.
+Papert, S. "[Situating Constructionism](http://www.papert.org/articles/SituatingConstructionism.html)." In *Constructionism*. Edited by Papert and Harel. Cambridge, MA: MIT Press, 1991.
 
-———. "What is Logo? and Who Needs It?" *Introduction to a Collection of Essays on LOGO Experiences in a Number of Different Countries* *by* {{% resource_link "e9d6ca96-b29f-47a2-9055-3603ca94721c" "*LCSI*" %}}. 1999. ({{% resource_link "404d678c-f219-4386-84d4-9aac8804838e" "PDF -1.5 MB" %}})
+———. "What is Logo? and Who Needs It?" *Introduction to a Collection of Essays on LOGO Experiences in a Number of Different Countries* *by* [*LCSI*](http://www.microworlds.com/). 1999. ([PDF -1.5 MB](http://www.microworlds.com/company/philosophy.pdf))
 
-———. "What's the Big Idea? Steps Toward a Pedagogy of Idea Power." *IBM Systems Journal* 39, no. 3-4 (2000). ({{% resource_link "8f7953df-35b0-4fa8-8261-726efa81023c" "PDF" %}})
+———. "What's the Big Idea? Steps Toward a Pedagogy of Idea Power." *IBM Systems Journal* 39, no. 3-4 (2000). ([PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5387030))
 
 Duckworth, E. "The Having of Wonderful Ideas." *Harvard Educational Review* 42, no. 2 (May 1972): 217-231.
 
@@ -57,15 +57,15 @@ Papert, S. *Mindstorms: Children, Computers, and Powerful Ideas*. New York: Basi
 J. Piaget
 {{< tdclose >}}{{< tdopen >}}
 
-Piaget, J. {{% resource_link "af4ab86e-ccd8-4ffe-80cd-39a6f8ce930a" "*The Construction of Reality in the Child*" %}}. 1955.
+Piaget, J. [*The Construction of Reality in the Child*](http://www.marxists.org/reference/subject/philosophy/works/fr/piaget2.htm). 1955.
 
-———. {{% resource_link "9be7f5df-7a9e-4d1d-92d6-699d5412ac85" "*Genetic Epistemology*" %}}. 1968. \[{{% resource_link "70b16d99-2fb6-47f0-b3b8-95bf13dac6dd" "Piaget's Biogrpahy" %}}\]
+———. [*Genetic Epistemology*](http://www.marxists.org/reference/subject/philosophy/works/fr/piaget.htm). 1968. \[[Piaget's Biogrpahy](http://www.marxists.org/glossary/people/p/i.htm#piaget-jean)\]
 
-Von Glasersfeld, E. {{% resource_link "222c2fb4-ecf1-474d-9bde-09ba7a80f537" "*Homage to Jean Piaget (1896-1980)*" %}}. 1997.
+Von Glasersfeld, E. [*Homage to Jean Piaget (1896-1980)*](http://www.vonglasersfeld.com/204). 1997.
 
 Papert, S. "The Conservation of Piaget: The Computer as Grist to the Constructivist Mill". In *Constructivism in the Computer Age*. NY: Lawrence Erlbaum. 1988.
 
-———. "{{% resource_link "5ac356f3-72fa-4c5a-87ae-6f02148fe82d" "Papert on Piaget" %}}."*Time Magazine* (March 29): 105. (Special issue on "The Century's Greatest Minds.")
+———. "[Papert on Piaget](http://www.papert.org/articles/Papertonpiaget.html)."*Time Magazine* (March 29): 105. (Special issue on "The Century's Greatest Minds.")
 
 Duckworth, E. *The Having of Wonderful Ideas and Other Essays on Teaching and Learning*. New York: Teachers College Press. 1996.
 
@@ -77,13 +77,13 @@ Gruber, H. E., and J. J. Voneche. "Introduction." In *The Essential Piaget*. New
 L. S. Vygotsky, A. N. Leont'ev, and A. R. Luria
 {{< tdclose >}}{{< tdopen >}}
 
-Vygotsky, L. S. "{{% resource_link "94713fdd-f404-49b3-a6ec-aa2f57e9d9ce" "Tool and Symbol in Child Development" %}}." Chapter 1, and "{{% resource_link "c78a9bba-eb68-4997-8dfc-cfacbb554a3a" "Interaction betweeen Learning and Development" %}}." Chapter 6 in Mind in Society: The Development of Higher Psychological Processes. Cambridge, MA: Harvard University Press. 1978. \[{{% resource_link "40cc4ff9-c87a-4dfa-a8f7-8be210c4942c" "Vygosty's Biography" %}}\]
+Vygotsky, L. S. "[Tool and Symbol in Child Development](https://www.marxists.org/archive/vygotsky/works/1934/tool-symbol.htm)." Chapter 1, and "[Interaction betweeen Learning and Development](https://www.oerafrica.org/sites/default/files/L%20%26%20L%20reader_section%20one-reading_4.pdf)." Chapter 6 in Mind in Society: The Development of Higher Psychological Processes. Cambridge, MA: Harvard University Press. 1978. \[[Vygosty's Biography](http://www.marxists.org/glossary/people/v/y.htm#vygotsky-lev)\]
 
-Leont'ev, A. N. {{% resource_link "18b8473a-75fd-4037-8077-5fb396976a4d" "*Activity, Consciousness, and Personality*" %}}*.* 1978\_.\_ \[{{% resource_link "3c8b7fe6-84b2-4dfa-bf47-581af4b1330c" "Leont'ev's Biography" %}}\]
+Leont'ev, A. N. [*Activity, Consciousness, and Personality*](http://www.marxists.org/archive/leontev/works/1978/index.htm)*.* 1978\_.\_ \[[Leont'ev's Biography](http://www.marxists.org/glossary/people/l/e.htm)\]
 
-Luria, A. R. {{% resource_link "cdef51a2-b063-440f-884d-c1aa0ebe9a43" "*Cognitive Development: Its Social and Cultural Foundations*" %}}. 1976. \[{{% resource_link "5f892754-a773-4155-be81-a546f6242dc8" "Luria's Biography" %}}\]
+Luria, A. R. [*Cognitive Development: Its Social and Cultural Foundations*](http://www.marxists.org/archive/luria/works/1976/problem.htm). 1976. \[[Luria's Biography](http://www.marxists.org/archive/luria/comments/bio.htm)\]
 
-{{% resource_link "6a46d946-0865-4d2c-9cb8-9bcf4f70205a" "Cultural-Historical Activity Theory (CHAT)" %}}. Theoretical framework for the research at Center for Activity Theory and Developmental Work Research at the University of Helsinki.
+[Cultural-Historical Activity Theory (CHAT)](https://www.bera.ac.uk/researchers-resources/publications/cultural-historical-activity-theory-chat). Theoretical framework for the research at Center for Activity Theory and Developmental Work Research at the University of Helsinki.
 
 Cole, M., and J. V. Wertsch. "Beyond the individual-social antinomy in discussions of Piaget and Vygotsky." *Human-Development*. 39, no. 5 (Sep-Oct 1996): 250-256.
 
@@ -92,7 +92,7 @@ Cole, M., and J. V. Wertsch. "Beyond the individual-social antinomy in discussio
 {{< tdclose >}}{{< tdopen >}}
 J. Dewey
 {{< tdclose >}}{{< tdopen >}}
-Dewey, J. *Experience and Education*. New York: Collier Books. 1938. \[{{% resource_link "8b590ad9-01c0-466d-a029-25451af879a4" "Dewey's profile" %}} on {{% resource_link "1b501234-88e7-4081-a957-c21ca5169416" "infed.org" %}}\]
+Dewey, J. *Experience and Education*. New York: Collier Books. 1938. \[[Dewey's profile](http://www.infed.org/thinkers/et-dewey.htm) on [infed.org](http://www.infed.org/)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -101,7 +101,7 @@ Lave and Wegner, Rogoff, Collins, Brown and Duguid
 
 Lave, J., and E. Wenger. *Situated Learning: Legitimate Peripheral Participation.* NY: Cambridge University Press. 1991.
 
-Hodges, D. "{{% resource_link "8562a940-ca91-4865-9145-0ace6e093372" "Participation as Dis-Identification With/in a Community of Practice" %}}." *XMCA Journal* 5, no. 4 (2002).
+Hodges, D. "[Participation as Dis-Identification With/in a Community of Practice](https://www.tandfonline.com/doi/abs/10.1207/s15327884mca0504_3)." *XMCA Journal* 5, no. 4 (2002).
 
 Brown, J. S., A. Collins, and P. Duguid. "Situated Cognition and the Culture of Learning." *Educational Researcher* 18, no. 1 (1989): 32-42.
 
@@ -113,11 +113,11 @@ Rogoff, Barbara. "Developing Understanding of the Idea of Communities of Learner
 I. Illich, P. Freire, E. Fromm and A. Falbel
 {{< tdclose >}}{{< tdopen >}}
 
-Illich, I. Chapters 3 and 7 in *Deschooling Society*. New York, NY: World Perspectives, Harper & Row, Publishers, Inc. 1970. \[{{% resource_link "9199f0a1-68e8-4d91-950d-f94a048913b5" "Illich's profile" %}} on {{% resource_link "1b501234-88e7-4081-a957-c21ca5169416" "infed.org" %}}\]
+Illich, I. Chapters 3 and 7 in *Deschooling Society*. New York, NY: World Perspectives, Harper & Row, Publishers, Inc. 1970. \[[Illich's profile](http://www.infed.org/thinkers/et-illic.htm) on [infed.org](http://www.infed.org/)\]
 
-Freire, P. Chapters 1-3 in *Letters to Cristina: Reflections on My Life and Work*. 1972. \[Freire's Biography from {{% resource_link "270bf1db-f15a-4619-889f-0e94e424de36" "paulofreire.org" %}}\] \[{{% resource_link "c9ddeff1-f6a2-4992-bd6a-b113a95fa793" "Freire's profile" %}} on {{% resource_link "1b501234-88e7-4081-a957-c21ca5169416" "infed.org" %}}\]
+Freire, P. Chapters 1-3 in *Letters to Cristina: Reflections on My Life and Work*. 1972. \[Freire's Biography from [paulofreire.org](http://www.paulofreire.org/)\] \[[Freire's profile](http://www.infed.org/thinkers/et-freir.htm) on [infed.org](http://www.infed.org/)\]
 
-Fromm, E. {{% resource_link "9a7af2db-3635-4b60-9fbc-1aed2b1270f0" "*Summerhill - A Radical Approach to Child Rearing*" %}}*.* 1960.
+Fromm, E. [*Summerhill - A Radical Approach to Child Rearing*](http://www.marxists.org/archive/fromm/works/1960/summerhill.htm)*.* 1960.
 
 Falbel, A. "Preface," "Introduction," "Conclusion," and "Looking Back at Friskolen 70." In *Friskolen 70: An Ethnographically Informed Inquiry Into the Social Context of Learning*. Cambridge, MA: MIT Media Laboratory Doctoral Dissertation, Massachusetts Institute of Technology. 1989.
 
@@ -127,30 +127,30 @@ Falbel, A. "Preface," "Introduction," "Conclusion," and "Looking Back at Friskol
 Research Tools and Methodology
 {{< tdclose >}}{{< tdopen >}}
 
-Papert, S. "{{% resource_link "63df612c-8f60-40e8-b2ae-1ec8e5dd87f1" "Computer Criticism vs. Technocentric Thinking" %}}." *Educational Researcher* (January-February 1993).
+Papert, S. "[Computer Criticism vs. Technocentric Thinking](http://www.papert.org/articles/ComputerCriticismVsTechnocentric.html)." *Educational Researcher* (January-February 1993).
 
 We will also read a few short articles in response to Papert's paper, Computer Cricitism vs. Technocentric Thinking.
 
-Papert, S. "{{% resource_link "ee640bd0-20cd-43d4-ae66-5f7245fa1dfa" "An Exploration in the Space of Mathematics Educations" %}}." *International Journal of Computers for Mathematical Learning* 1, no. 1 (1996).
+Papert, S. "[An Exploration in the Space of Mathematics Educations](http://www.papert.org/articles/AnExplorationintheSpaceofMathematicsEducations.html)." *International Journal of Computers for Mathematical Learning* 1, no. 1 (1996).
 
-{{% resource_link "5b46eaff-d9a9-4aca-9f46-83ff39ee6931" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. *Foreword to Turtles, Termites, and Traffic Jams*. MIT Press. 1994. ISBN: 9780262181624.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262181624) ———. *Foreword to Turtles, Termites, and Traffic Jams*. MIT Press. 1994. ISBN: 9780262181624.
 
 Ackermann, E. "From Decontextualized to Situated Knowledge: Revisiting Piaget's Water-Level Experiment." *E&L Memo* 5 (1990).
 
-Resnick, M. "{{% resource_link "bc48733d-812b-456b-9f40-4aaff9a4d8c4" "MultiLogo: A Study of Children and Concurrent Programming" %}}." *Interactive Learning Environments* 1, no. 3 (1990).
+Resnick, M. "[MultiLogo: A Study of Children and Concurrent Programming](http://llk.media.mit.edu/papers/archive/MultiLogo.html)." *Interactive Learning Environments* 1, no. 3 (1990).
 
-———. "{{% resource_link "ad9704cb-3fda-4056-8c16-6b58f75f7cbf" "Technologies for Lifelong Kindergarten" %}}." *Educational Technology Research and Development* 46, no. 4 (1998).
+———. "[Technologies for Lifelong Kindergarten](http://web.media.mit.edu/~mres/papers/lifelongk/)." *Educational Technology Research and Development* 46, no. 4 (1998).
 
-Resnick, M., R. Berg, and M. Eisenberg. "{{% resource_link "dbace166-bb7c-4321-bcff-518e53f8e778" "Beyond Black Boxes: Bringing Transparency and Aesthetics Back to Scientific Investigation" %}}." *Journal of the Learning Sciences* 9, no. 1 (2000).
+Resnick, M., R. Berg, and M. Eisenberg. "[Beyond Black Boxes: Bringing Transparency and Aesthetics Back to Scientific Investigation](http://llk.media.mit.edu/papers/archive/bbb/)." *Journal of the Learning Sciences* 9, no. 1 (2000).
 
-Martin, F., B. Mikhak, and B. Silverman. "{{% resource_link "fa8afac9-a024-40a4-8270-8562f8d1c6a7" "MetaCricket: A designer's kit for making computational devices" %}}." *IBM Systems Journal* 39, no. 3-4 (2000).
+Martin, F., B. Mikhak, and B. Silverman. "[MetaCricket: A designer's kit for making computational devices](https://ieeexplore.ieee.org/abstract/document/5387028)." *IBM Systems Journal* 39, no. 3-4 (2000).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Documentation, Reflection, and Evaluation
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "4e605f67-0f1b-4ca1-a3e8-49610e999a7e" "Project Zero" %}}, and Reggio Children. *Making Learning Visible: Children as Individual and Group Learners*. Reggio Emilia, Italy: Reggio Children, 2002.
+[Project Zero](http://www.pz.harvard.edu/), and Reggio Children. *Making Learning Visible: Children as Individual and Group Learners*. Reggio Emilia, Italy: Reggio Children, 2002.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -159,15 +159,15 @@ Diversity in learning
 
 Papert, S. "Beyond the Cognitive: The Other Face of Mathematics." *Proceedings of the Nineteenth International Conference for the Psychology of Mathematics Education, Plenary Lectures.* 1986.
 
-Turkle, S., and S. Papert. "{{% resource_link "3c4c5438-dca0-4c51-942d-f9363b90cf1c" "Epistemological Pluralism" %}}." *Signs* 16, no. 1 (1990).
+Turkle, S., and S. Papert. "[Epistemological Pluralism](http://www.papert.org/articles/EpistemologicalPluralism.html)." *Signs* 16, no. 1 (1990).
 
 Wilensky, U. "Abstract Meditations on the Concrete and Concrete Implications for Mathematics Education." In *Constructionism*. Edited by I. Harel and S. Papert. Norwood, MA: Ablex Publishing. 1990.
 
-Papert, S. {{% resource_link "a6ffd498-331f-49f8-903d-53a68444b087" "*Diversity in Learning: A Vision for the New Millennium*" %}}. 1999.
+Papert, S. [*Diversity in Learning: A Vision for the New Millennium*](http://www.papert.org/articles/diversity/DiversityinLearningPart1.html). 1999.
 
 Videotaped Speech for Vice President Al Gore's Diversity Task Force.
 
-Ackermann, E. "Piaget's Constructivism, Papert's Constructionism: What's the difference?" 2001. An extended version of this paper appears in French. ({{% resource_link "686a3909-a7c8-4934-8c9b-7ac87205264d" "PDF" %}})
+Ackermann, E. "Piaget's Constructivism, Papert's Constructionism: What's the difference?" 2001. An extended version of this paper appears in French. ([PDF](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -177,17 +177,17 @@ Communities of Learners
 
 Shaw, A. Chapters 1 and 2 in *Social Constructionism and the Inner City: Designing Environments for Social Development and Urban Renewal*. Cambridge, MA: MIT Media Laboratory Doctoral Dissertation, Massachusetts Institute of Technology. 1995.
 
-Resnick, M., N. Rusk, and S. Cooke. "{{% resource_link "1718bf43-9f43-4c2c-b504-326b18758cb3" "The Computer Clubhouse: Technological Fluency in the Inner City" %}}." In *High Technology and Low-Income Communities*. Edited by D. Schon, B. Sanyal, and W. Mitchell. Cambridge: MIT Press, 1998, pp. 266-286.
+Resnick, M., N. Rusk, and S. Cooke. "[The Computer Clubhouse: Technological Fluency in the Inner City](http://web.media.mit.edu/~mres/papers/Clubhouse/Clubhouse.htm)." In *High Technology and Low-Income Communities*. Edited by D. Schon, B. Sanyal, and W. Mitchell. Cambridge: MIT Press, 1998, pp. 266-286.
 
-Papert, S., and D. Cavallo. {{% resource_link "8945920c-69c1-4746-8b5a-d47b8391fb85" "*The Learning Hub*" %}}*: Entry Point to Twenty First Century Learning.* 2000.
+Papert, S., and D. Cavallo. [*The Learning Hub*](http://learning.media.mit.edu/learninghub.html)*: Entry Point to Twenty First Century Learning.* 2000.
 
-Bruckman, A. "Co-Evolution of Technological Design and Pedagogy in an Online Learning Community." *To appear in Designing Virtual Communities in the Service of Learning*. Edited by Sasha Barab, Rob, and James Gray. Cambridge University Press, 2002. (Forthcoming 2002.) ({{% resource_link "08183fde-8a5f-4c72-9e44-881c49c6b1d4" "PDF" %}})
+Bruckman, A. "Co-Evolution of Technological Design and Pedagogy in an Online Learning Community." *To appear in Designing Virtual Communities in the Service of Learning*. Edited by Sasha Barab, Rob, and James Gray. Cambridge University Press, 2002. (Forthcoming 2002.) ([PDF](http://www.cc.gatech.edu/%7Easb/papers/bruckman-co-evolution.pdf))
 
-Bruckman, A., and M. Resnick. "{{% resource_link "a8338fe1-a1c6-4751-bfc2-fb6188ff8fe8" "The MediaMOO Project: Constructionism and Professional Community" %}}*." Convergence* 1, no. 1 (1995).
+Bruckman, A., and M. Resnick. "[The MediaMOO Project: Constructionism and Professional Community](http://llk.media.mit.edu/papers/archive/convergence.html)*." Convergence* 1, no. 1 (1995).
 
-Bers, M. Identity Construction Environments: Developing Personal And Moral Values Through The Design Of A Virtual City." *The Journal of the Learning Sciences* 10, no. 4. NJ: Lawrence Erlbaum Associates, Inc., 2001. ({{% resource_link "3505d3d0-ba2e-4e87-bf60-e3fe4ec03789" "PDF - 1.4 MB" %}})
+Bers, M. Identity Construction Environments: Developing Personal And Moral Values Through The Design Of A Virtual City." *The Journal of the Learning Sciences* 10, no. 4. NJ: Lawrence Erlbaum Associates, Inc., 2001. ([PDF - 1.4 MB](http://ase.tufts.edu/devtech/publications/ICE-values-design.pdf))
 
-Borovoy, R., B. Silverman, T. Gorton, J. Klann, M. Notowidigdo, B. Knep, and M. Resnick. Folk Computing: Revisiting Oral Tradition as a Scaffold for Co-Present Communities." *Proceedings of the CHI Conference on Human Factors in Computing Systems in March 2001*. New York: ACM. 2001. ({{% resource_link "43235871-6d53-44bf-9aa2-7992a15b061e" "PDF - 1.0 MB" %}})
+Borovoy, R., B. Silverman, T. Gorton, J. Klann, M. Notowidigdo, B. Knep, and M. Resnick. Folk Computing: Revisiting Oral Tradition as a Scaffold for Co-Present Communities." *Proceedings of the CHI Conference on Human Factors in Computing Systems in March 2001*. New York: ACM. 2001. ([PDF - 1.0 MB](http://llk.media.mit.edu/papers/archive/folk-computing.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
